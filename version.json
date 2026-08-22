@@ -3,7 +3,7 @@
   "versionName": "1.1.0",
   "apkUrl": "https://github.com/pauloadebe/PrepCarta-updates/releases/download/v1.1.0/app-debug.apk",
   
-  "maintenanceMode": false,
+  "maintenanceMode": true,
   "maintenanceMessage": "Estamos a ter instabilidades temporárias nos nossos servidores, mas já estamos a trabalhar para resolver o mais rápido possível.",
   
   "minRequiredVersionCode": 1,
