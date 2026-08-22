@@ -6,6 +6,6 @@
   "maintenanceMode": false,
   "maintenanceMessage": "Estamos a ter instabilidades temporárias nos nossos servidores, mas já estamos a trabalhar para resolver o mais rápido possível.",
   
-  "minRequiredVersionCode": 2,
+  "minRequiredVersionCode": 1,
   "updateMessage": "Estivemos enfrentando um problema técnico no app que já foi resolvido. Por favor, actualize para a versão mais recente para continuar a usar."
 }
