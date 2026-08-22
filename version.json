@@ -3,7 +3,7 @@
   "versionName": "1.0.0",
   "apkUrl": "https://github.com/pauloadebe/PrepCarta-updates/releases/download/v1.0.0/prep-carta.apk",
   
-  "maintenanceMode": false,
+  "maintenanceMode": true,
   "maintenanceMessage": "Estamos a ter instabilidades temporárias nos nossos servidores, mas já estamos a trabalhar para resolver o mais rápido possível.",
   
   "minRequiredVersionCode": 1,
